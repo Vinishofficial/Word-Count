@@ -31,7 +31,7 @@ with open("count.txt",'r') as fl:
 print("The number of words are in the file is ",num)
 ```
 ### OUTPUT:
-![alt text](<Screenshot 2024-05-12 144635.png>)
-![alt text](<Screenshot 2024-05-12 144244.png>)
+![alt text](image.png)
+![alt text](image-1.png)
 ## RESULT:
 Thus the program is written to find the word count from a text.
